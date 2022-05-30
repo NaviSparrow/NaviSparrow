@@ -20,6 +20,7 @@ Here you can find some examples of projects I have practice my skills on.
 ---
 
 ## 🛠️ Some Tools I Use:
+<p dir="auto">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="50" height="50" alt="JavaScript" style="margin-right: 5px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React.js" style="margin-right: 5px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" style="margin-right: 5px">
@@ -29,6 +30,7 @@ Here you can find some examples of projects I have practice my skills on.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" style="margin-right: 5px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" style="margin-right: 5px">
 <img src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" width="50" height="50" alt="Bash" style="margin-right: 5px;">
+ </p>
 
 ---
  ## 📈 Currently Learning:
