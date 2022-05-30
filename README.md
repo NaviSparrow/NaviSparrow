@@ -1,6 +1,3 @@
 - 👋 Hi, I’m Gorobec Ivan
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning react.js, vue.js, next.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 📫 How to reach me work.gorobec@gmail.com
