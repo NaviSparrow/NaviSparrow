@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/navi_sparrow94-2CA5E0?style=flat-for-the-badge&logo=telegram&logoColor=white?link=https://t.me/navi_sparrow94" alt="telegram">
 </a>
 
-Welcome to my profile. I constantly learn cool thing about **Frontend Development**.<br>
+Welcome to my profile. I constantly learn cool things about **Frontend Development**.<br>
 Here you can find some examples of the projects I have been practicing my skills on.
 
 ## 🛠️ Some Tools I Use:
