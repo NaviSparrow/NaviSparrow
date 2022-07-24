@@ -1,6 +1,6 @@
 # Hey, I’m Ivan 👋
 
-<a href="www.linkedin.com/in/navi-sparrow">
+<a href="https://www.linkedin.com/in/navi-sparrow/">
 <img src="https://img.shields.io/badge/-IvanGorobec-blue?style=flat-for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/navi-sparrow" alt="link on linkedin">
 </a>
 
