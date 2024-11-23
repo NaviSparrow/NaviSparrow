@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://t.me/navi_sparrow94">
-<img src="https://img.shields.io/badge/navi_sparrow94-2CA5E0?style=flat-for-the-badge&logo=telegram&logoColor=white?link=https://t.me/navi_sparrow94" alt="telegram">
+<img src="https://img.shields.io/badge/bb_navi-2CA5E0?style=flat-for-the-badge&logo=telegram&logoColor=white?link=https://t.me/bb_navi" alt="telegram">
 </a>
 
 Welcome to my profile. I constantly learn cool things about **Frontend**.<br>
@@ -17,6 +17,7 @@ Here you can find some examples of the projects I have been practicing my skills
 
 ## 🛠️ Some Tools I Use:
 <p dir="auto">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60" alt="vue.js" style="margin-right: 5px">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="50" height="50" alt="JavaScript" style="margin-right: 5px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React.js" style="margin-right: 5px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" style="margin-right: 5px">
@@ -27,14 +28,6 @@ Here you can find some examples of the projects I have been practicing my skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" style="margin-right: 5px">
 <img src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" width="50" height="50" alt="Bash" style="margin-right: 5px;">
  </p>
-
- ## 📈 Currently Learning:
-<p dir="auto">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60" alt="Sass" style="margin-right: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="60" height="60" alt="LESS" style="margin-right: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60" alt="vue.js" style="margin-right: 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="60" alt="next.js" style="margin-right: 5px">
-</p>
 
 ---
 
